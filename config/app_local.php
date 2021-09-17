@@ -44,8 +44,8 @@ return [
              */
             //'port' => 'non_standard_port_number',
 
-            'username' => 'computar_econo',
-            'password' => 'm0px45ibb2hp',
+            'username' => '',
+            'password' => '',
 
             'database' => 'computar_economize',
             /*

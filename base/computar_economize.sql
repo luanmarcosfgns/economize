@@ -181,8 +181,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password`, `role`, `created`, `modified`) VALUES
-(6, 'luanmarcosfgns@gmail.com', '$2y$10$zkd5XT05RRYtWwNHmBTLJ.gkN/0t6KpfKONMUc6sv87qP1rBYw0Ie', 'ADM', '2021-01-23 15:06:20', '2021-01-23 15:06:20'),
-(7, 'luanmarcosfgns@hotmail.com', '$2y$10$WDuu0tiX1n3jSko23ptFz.tC0k8l.GpeGU8ndHeLgSLEjhszuJXf.', NULL, '2021-01-25 12:23:44', '2021-01-25 12:23:44');
+(6, '', '', 'ADM', '2021-01-23 15:06:20', '2021-01-23 15:06:20');
+
 
 --
 -- Índices para tabelas despejadas
